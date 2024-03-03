@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/92eb786f-5daa-4005-90f0-1cf2ac1d87f3/resourceGroups/vmresource/providers/Microsoft.Web/sites/shopwebs",
+    "appService.deploySubpath": "."
+}
